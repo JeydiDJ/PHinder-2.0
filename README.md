@@ -1,109 +1,136 @@
-<p align="center"> <img src="./assets/phinder-banner.png" alt="PHinder 2.0 Banner" /> </p> <h1 align="center">🔍 PHinder 2.0</h1> <p align="center"> A modernized, map-driven web platform for increasing awareness of missing person cases in the Philippines. </p> <p align="center"> <img src="https://img.shields.io/badge/status-in%20development-yellow" /> <img src="https://img.shields.io/badge/vue-3.x-42b883" /> <img src="https://img.shields.io/badge/vite-fast-646cff" /> <img src="https://img.shields.io/badge/team-collaborative-blue" /> </p>
+<p align="center"> <img src="./assets/phinder-banner.png" alt="PHinder 2.0 Banner" /> </p> <h1 align="center">🔍 PHinder 2.0</h1> <p align="center"> A modernized, map-driven web platform for increasing awareness of missing person cases in the Philippines. </p> <p align="center"> <img src="https://img.shields.io/badge/status-in%20development-yellow" /> <img src="https://img.shields.io/badge/vue-3.x-42b883" /> <img src="https://img.shields.io/badge/vite-fast-646cff" /> <img src="https://img.shields.io/badge/team-collaborative-blue" /> <img src="https://img.shields.io/badge/license-MIT-lightgrey" /> </p>
 
-⚠️ PHinder 2.0 is a collaborative revamp of an academic capstone project.
-Features, structure, and visuals are subject to change as development progresses.
+⚠️ PHinder 2.0 is a collaborative project and production-ready.
+Features, structure, and visuals may evolve as development progresses.
 
 📌 Overview
 
-PHinder 2.0 is a rebuilt and refactored version of the original PHinder project. It is a Vue-based web application designed to help raise awareness and improve information accessibility for missing person cases in the Philippines through an interactive, map-centric interface.
+- PHinder 2.0 is a revamped version of the original PHinder project.
 
-This version prioritizes maintainability, scalability, performance, and collaboration, while preserving the original project’s social impact objective.
+- Vue-based web app for visualizing missing person cases in the Philippines.
+
+- Focuses on maintainability, scalability, performance, and collaboration.
+
+- Preserves the original project’s social impact goal while improving technology stack and workflow.
 
 🔁 About the Revamp
 
-The original PHinder served as a proof of concept for visualizing missing person reports using map pinning. PHinder 2.0 rebuilds the system from the ground up using modern frontend practices and tooling to support future growth and feature expansion.
+- Rebuilt from the ground up using modern frontend practices.
 
-Key goals of this revamp include:
+- Supports team collaboration and future feature expansion.
 
-Cleaner and more scalable frontend architecture
+Key improvements:
 
-Modern development workflow
+- Cleaner and more scalable frontend architecture
 
-Improved navigation and user experience
+- Modern development workflow with Vite
 
-Stronger foundation for team collaboration
+- Improved navigation and user experience
+
+- Strong foundation for collaborative development
 
 ✨ Features
 
-🗺️ Interactive map pinning for last known locations
+🗺️ Interactive map with last known location pinning
 
-👥 Public access to missing person reports
+👥 Public viewing of missing person reports
 
 ⚙️ Modular and refactored frontend structure
 
-🚀 Optimized development and build process
+🚀 Optimized performance and development workflow
 
-🤝 Built with collaboration and scalability in mind
+🤝 Designed for team collaboration
 
 🧰 Tech Stack
-Technology	Purpose
-Vue 3	Frontend framework (Composition API)
-Vite	Fast development & build tooling
-Vue Router	Client-side routing
+
+Vue 3 – Frontend framework (Composition API)
+
+Vite – Fast development and build tooling
+
+Vue Router – Client-side routing
+
 🚧 Project Status
 
-🛠️ In Development
-PHinder 2.0 is under active development by a collaborative team.
+🛠️ Active development in progress
+
+✅ Core features being refactored and built
+
+🔜 Demo and screenshots planned for later
 
 ⚙️ Installation & Setup
-# Clone the repository
+
+Clone the repository:
+
 git clone https://github.com/YOUR_USERNAME/phinder-2.0.git
 
-# Navigate into the project directory
+
+Navigate into the project folder:
+
 cd phinder-2.0
 
-# Install dependencies
+
+Install dependencies:
+
 npm install
 
-# Run the development server
+
+Run the development server:
+
 npm run dev
 
 
-The app will be available at:
-
-http://localhost:5173
+Visit in browser: http://localhost:5173
 
 🤝 Team & Collaboration
 
-PHinder 2.0 is developed collaboratively with shared ownership across features and improvements.
+- Developed collaboratively by a team of contributors.
 
-Organized commits and pull requests
+- Shared ownership across features and improvements.
 
-Clear separation of concerns
+- Structured commits and pull requests for clear collaboration.
 
-Continuous iteration and refactoring
+- Continuous iteration and refactoring to improve code quality.
 
 🧭 Roadmap
 
- Map provider integration
+🗺️ Map provider integration
 
- Missing person data modeling
+📝 Missing person data modeling
 
- Public case viewing
+👀 Public case viewing
 
- Report submission workflow
+📤 Report submission workflow
 
- Verification and moderation flow
+✅ Verification and moderation workflow
 
- UI/UX refinement
+🎨 UI/UX refinement
 
- Progressive Web App (PWA) support
+📱 Progressive Web App (PWA) support
+
+🌐 Deployment
+
+PHinder 2.0 is production-ready and intended for public deployment.
+
+Ensure that all user-submitted data is handled responsibly in compliance with data privacy regulations.
 
 👨‍💻 Authors
 
-JD De Jesus
+ - JD De Jesus
+ - Lowell Jireh Chantengco
+ - John Zacqueo Carreon
+ - Timothy Sean Anunciacion
+ - Carlo Andretti Cruz
 
-Lowell Jireh Chantengco
+📄 License & Deployment
 
-John Zacqueo Carreon
+  - PHinder 2.0 is production-ready and intended for public deployment.
 
-Timothy Sean Anunciacion
+  - The development and maintenance are handled exclusively by our team.
 
-Carlo Andretti Cruz
+  - All user-submitted data must be handled responsibly in compliance with Philippine data privacy regulations.
 
-📄 License & Usage
+⭐ Tip
 
-This project is production-ready and intended for public deployment.
-All code and assets are free for use and modification under the terms of the chosen license (MIT recommended for open-source deployment).
+Consider starring the repository if you find this project meaningful.
 
-⭐ If you find this project meaningful, consider starring the repository.
+Update this README as new features are implemented or deployed.
