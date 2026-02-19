@@ -71,7 +71,7 @@
 <h2>⚙️ Installation & Setup</h2>
 <ul>
   <li><strong>Clone the repository:</strong>
-    <pre>git clone https://github.com/YOUR_USERNAME/phinder-2.0.git</pre>
+    <pre>git clone https://github.com/JeydiDJ/phinder-2.0.git</pre>
   </li>
   <li><strong>Navigate into the project folder:</strong>
     <pre>cd phinder-2.0</pre>
