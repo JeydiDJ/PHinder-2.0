@@ -55,11 +55,15 @@
 </ul>
 
 <h2>Tech Stack</h2>
-<ul>
-  <li>Vue 3 – Frontend framework (Composition API)</li>
-  <li>Vite – Fast development and build tooling</li>
-  <li>Vue Router – Client-side routing</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/-Vue_3-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox" />
+</p>
+
 
 <h2>Project Status</h2>
 <ul>
