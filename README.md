@@ -23,7 +23,7 @@
   Features, structure, and visuals may evolve as development progresses.
 </p>
 
-<h2>📌 Overview</h2>
+<h2>Overview</h2>
 <ul>
   <li>PHinder 2.0 is a revamped version of the original PHinder project.</li>
   <li>Vue-based web app for visualizing missing person cases in the Philippines.</li>
@@ -31,7 +31,7 @@
   <li>Preserves the original project’s social impact goal while improving technology stack and workflow.</li>
 </ul>
 
-<h2>🔁 About the Revamp</h2>
+<h2>About the Revamp</h2>
 <ul>
   <li>Rebuilt from the ground up using modern frontend practices.</li>
   <li>Supports team collaboration and future feature expansion.</li>
@@ -45,7 +45,7 @@
   <li>Strong foundation for collaborative development</li>
 </ul>
 
-<h2>✨ Features</h2>
+<h2>Features</h2>
 <ul>
   <li>🗺️ Interactive map with last known location pinning</li>
   <li>👥 Public viewing of missing person reports</li>
@@ -54,21 +54,21 @@
   <li>🤝 Designed for team collaboration</li>
 </ul>
 
-<h2>🧰 Tech Stack</h2>
+<h2>Tech Stack</h2>
 <ul>
   <li>Vue 3 – Frontend framework (Composition API)</li>
   <li>Vite – Fast development and build tooling</li>
   <li>Vue Router – Client-side routing</li>
 </ul>
 
-<h2>🚧 Project Status</h2>
+<h2>Project Status</h2>
 <ul>
   <li>🛠️ Active development in progress</li>
   <li>✅ Core features being refactored and built</li>
   <li>🔜 Demo and screenshots planned for later</li>
 </ul>
 
-<h2>⚙️ Installation & Setup</h2>
+<h2>Installation & Setup</h2>
 <ul>
   <li><strong>Clone the repository:</strong>
     <pre>git clone https://github.com/JeydiDJ/PHinder-2.0.git</pre>
@@ -85,7 +85,7 @@
   <li><strong>Visit in browser:</strong> http://localhost:5173</li>
 </ul>
 
-<h2>🤝 Team & Collaboration</h2>
+<h2>Team & Collaboration</h2>
 <ul>
   <li>Developed exclusively by our team.</li>
   <li>Shared ownership across features and improvements.</li>
@@ -93,7 +93,7 @@
   <li>Continuous iteration and refactoring to improve code quality.</li>
 </ul>
 
-<h2>🧭 Roadmap</h2>
+<h2>Roadmap</h2>
 <ul>
   <li>🗺️ Map provider integration</li>
   <li>📝 Missing person data modeling</li>
@@ -104,14 +104,14 @@
   <li>📱 Progressive Web App (PWA) support</li>
 </ul>
 
-<h2>🌐 Deployment</h2>
+<h2>Deployment</h2>
 <ul>
   <li>PHinder 2.0 is production-ready and intended for public deployment.</li>
   <li>Development and maintenance are handled exclusively by our team.</li>
   <li>All user-submitted data must be handled responsibly in compliance with Philippine data privacy regulations.</li>
 </ul>
 
-<h2>👨‍💻 Authors</h2>
+<h2>Authors</h2>
 <ul>
   <li>JD De Jesus</li>
   <li>Lowell Jireh Chantengco</li>
